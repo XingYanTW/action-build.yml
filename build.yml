@@ -32,4 +32,4 @@ jobs:
         automatic_release_tag: "latest"
         prerelease: true
         title: "Development Build"
-        files: "target/AccountLimit-dev.jar"
+        files: "target/*.jar"
